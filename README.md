@@ -11,7 +11,7 @@ As a whole, this repo also aims to provide end-to-end methodology for creating a
 The R script for analysis of the output from CellProfiler can be found in the [`qibcPlots` folder here](qibcPlots). An example dataset (`Nuelci.csv`) for testing this script can be found in the `example-data` folder.
 
 ### Interactive application for exploring QIBC data
-[Here](https://callum-jpg.shinyapps.io/qibcplot-web/) you can find an online application to explore how the 3var plots look and how they can be manipulated. [Here](shinyapp-local) you can find the shiny app which you can run locally with your own data.
+[Here](https://callum-jpg.shinyapps.io/qibcplot-web/) you can find an online application to explore how the 3var plots look and how they can be manipulated. [Here](https://github.com/callum-jpg/qibcPlot-shiny) you can find the shiny app which you can run locally with your own data.
 
 ## Example Plots
 ### 3var scatter plot
