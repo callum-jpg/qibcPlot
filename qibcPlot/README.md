@@ -4,11 +4,11 @@ These plot generating R scripts assume you have an identifiable group within you
 
 
 ### Plotting
-qibcScripts currently includes two main types of plotting:
+The qibcPlot R scripts currently include two main types of plotting:
  - 3 variable scatter
  - Dot bar plot
 
-Depending on the variables selected, the 3 variable scatter can be used to sort cells based on their stage in the cell cycle and a 3rd variable can be examined in a cell cycle-dependent manner.
+Depending on the variables selected, the 3 variable scatter can be used to sort cells based on their stage in the cell cycle and a 3rd variable can be examined in a cell cycle-dependent manner. 
 
 For example: does your drug lead to a phenotype in a certain stage of the cell cycle?
 
